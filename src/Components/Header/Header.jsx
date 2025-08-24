@@ -2,7 +2,7 @@ import React from "react";
 
 function Header(){
     return(
-        <h1><header>Keeper App</header></h1>
+        <header><h1>Keeper App</h1></header>
     )
 }
 
